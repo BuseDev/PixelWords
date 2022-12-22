@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\PixelWords.exe
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\PixelWords.deps.json
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\PixelWords.runtimeconfig.json
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\PixelWords.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\PixelWords.dll
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\ref\PixelWords.dll
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\bin\Debug\net5.0\PixelWords.pdb
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.dll
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\ref\PixelWords.dll
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.pdb
+C:\Users\lenovo\source\repos\PixelWords\PixelWords\obj\Debug\net5.0\PixelWords.genruntimeconfig.cache
